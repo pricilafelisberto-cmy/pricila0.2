@@ -1,0 +1,28 @@
+body{
+
+    background-color: rgb(193, 218, 190);
+}
+
+.titulo-principal{
+
+    color: black;
+
+}
+
+.titulo-secundario{
+
+    color: rgb(54, 47, 47);
+    font-size: 85%;
+}
+
+.texto-principal{
+
+    text-align: center;
+    font-size: 25%;
+}
+
+.imagem{
+
+    width: center;
+
+}
